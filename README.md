@@ -23,4 +23,4 @@ SPEED - Beats Per Minute (from 60 (left) to 240 (right))
 MODE - Toggles Manual / Sonification mode
 
 ## DEMO
-The demonstration video is available on [YouTube](https://youtu.be/Zxf24t4s4YY)
+The demonstration video is available on [YouTube](https://youtu.be/Hld5U1-864M)
