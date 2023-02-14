@@ -7,7 +7,7 @@ I wish acknowledge to @HackerPoet for the excellent implementation.
 Download files from the link: https://drive.google.com/drive/folders/1eOVYzTEaIhBGPmUB-nzODhTo-q5mbMqf?usp=sharing
 
 ## NAVIGATION
-<img src="_image/interface.png" alt="Interface of the data sonification tool" title="Interface of the data sonification tool">
+<img src="_img/interface.png" alt="Interface of the data sonification tool" title="Interface of the data sonification tool">
 SLIDERS - Associated with five meteorological data params as follows:
 1. Major / Minor scales - Temperature
 2. Sharp / Non-sharp notes - Dew Point Temperature
